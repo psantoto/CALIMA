@@ -9,7 +9,6 @@ The latest version is v1.0 (2025).
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 ![Version](https://img.shields.io/github/v/release/psantoto/CALIMA)
-![Downloads](https://img.shields.io/github/downloads/psantoto/CALIMA/total)
 ![Last commit](https://img.shields.io/github/last-commit/psantoto/CALIMA)
 ![Open Issues](https://img.shields.io/github/issues/psantoto/CALIMA)
 ![Pull Requests](https://img.shields.io/github/issues-pr/psantoto/CALIMA)
