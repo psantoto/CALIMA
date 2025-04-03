@@ -201,12 +201,6 @@ Finally, if `Verbose` is set to True (which is the default value), CALIMA will
 print on the Terminal the names of all output files, as well as the channels
 where the components were detected.
 
-<!--
-## Examples
-(optional, I'll see what I can do)
--->
-
-
 ## Contributing
 Thank you for considering contributing to CALIMA! If you encounter any issues,
 have suggestions, or want to contribute code, please feel free to reach out
