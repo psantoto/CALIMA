@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use CALIMA in your research, please cite it using the following information."
+title: "CALIMA: Component Analysis and Line Identification for MAsers"
+authors:
+  - name: "Pablo Santo-Tomas"
+    affiliation: "Instituto de Astrofísica de Andalucía (IAA-CSIC)"
+    orcid: "0009-0003-5228-2804"
+date-released: "2025-04-03"
+version: "1.0"
+repository-code: "https://github.com/psantoto/CALIMA"
+license: "GNU GPL v3"
+keywords:
+  - masers
+  - spectral line detection
+  - radio astronomy
+  - interferometry
+doi: "10.5281/zenodo.XXXXX"

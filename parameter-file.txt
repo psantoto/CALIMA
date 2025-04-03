@@ -1,0 +1,16 @@
+# Example Parameter File
+# The order of the parameters is not relevant.
+# All parameters must follow the 'KEY: VALUE' standard.
+# Empty lines and lines starting with '#' are not read.
+
+File Name: path/to/cube
+Output file: name_of_output_file
+Source box: 90, 80, 115, 120
+Noise box: 20, 130, 180, 180
+Nsigma source: 3
+Nsigma valley: 2
+Nsigma adjacent: 3
+N adjacent chans: 2
+Summary Flag: False
+Verbose Flag: True
+Ellipse size: 0.33
