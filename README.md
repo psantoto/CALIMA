@@ -259,7 +259,6 @@ Financiado por el proyecto ref. AST22_00001_Subp X con financiación de la Unió
     <img src="images/CSIC.jpg" alt="CSIC logo" style="width:20%;">
 </p>
 
-
 ## License
 CALIMA is licensed under the **GNU Lesser General Public Licence (GNU GPL v3)**,
 which **requires attribution**.  You are free to share and adapt the material as
