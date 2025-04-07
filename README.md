@@ -54,13 +54,13 @@ environment. If this is not the case, CALIMA will install it using pip.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/CALIMA.git
+git clone https://github.com/psantoto/CALIMA.git
 ```
 
 Or download the ZIP:
 
 ```bash
-wget https://github.com/yourusername/CALIMA/archive/refs/heads/main.zip -O CALIMA.zip
+wget https://github.com/psantoto/CALIMA/archive/refs/heads/main.zip -O CALIMA.zip
 unzip CALIMA.zip
 ```
 
