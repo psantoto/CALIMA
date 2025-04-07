@@ -3,7 +3,7 @@ CALIMA - Component Analysis and Line Identification for MAsers
 Author: Pablo Santo-Tomás Ros
 Affiliation: Instituto de Astrofísica de Andalucía (IAA-CSIC)
 Year: 2025
-License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+License: GPL v3 (https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 
 Description:
 This script detects spectral components in maser emission and fits Gaussian profiles
