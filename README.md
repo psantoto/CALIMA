@@ -229,7 +229,7 @@ If you use CALIMA in your reasearch and publish results, you **must cite the
 software** as follows:
 
 **APA**
-> Santo-Tomas, P. (2025). *CALIMA: Component Analysis and Line Identification for MAsers* (Version 1.0) [Software]. Zenodo. DOI: XXXXXX
+> Santo-Tomas, P. (2025). *CALIMA: Component Analysis and Line Identification for MAsers* (Version 1.0) [Software]. Zenodo. DOI: 10.5281/zenodo.15166803
 
 **BibTex**
 ```bibtex
@@ -238,7 +238,7 @@ software** as follows:
     title = {CALIMA: Component Analysis and Line Identification for MAsers},
     year = {2025},
     version = {1.0},
-    doi = {XXXX},
+    doi = {10.5281/zenodo.15166803},
     url = {https://github.com/psantoto/CALIMA}
 }
 ```
