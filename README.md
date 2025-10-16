@@ -245,10 +245,10 @@ software** as follows:
 
 ## Credits
 ### :uk: English
-The development of this code was supported by project ref. AST22_00001_Subp X with funding from the European Union - NextGenerationEU»; the Spanish Ministry of Science, Innovation and Universities; the Spanish Recovery, Transformation and Resilience Plan; the Department of University, Research and Innovation of the Andalusian Regional Government and Consejo Superior de Investigaciones Científicas. We also acknowledge support from grants PID2020-114461GB-I00, PID2023-146295NB-I00, and CEX2021-001131-S, funded by MCIU/AEI/10.13039/501100011033.
+The development of this code was supported by project ref. AST22_00001_12 with funding from the European Union - NextGenerationEU»; the Spanish Ministry of Science, Innovation and Universities; the Spanish Recovery, Transformation and Resilience Plan; the Department of University, Research and Innovation of the Andalusian Regional Government and Consejo Superior de Investigaciones Científicas. We also acknowledge support from grants PID2020-114461GB-I00, PID2023-146295NB-I00, and CEX2021-001131-S, funded by MCIU/AEI/10.13039/501100011033.
 
 ### :es: Español
-Financiado por el proyecto ref. AST22_00001_Subp X con financiación de la Unión Europea - NextGenerationEU»; el Ministerio de Ciencia, Innovación y Universidades ; el Plan de Recuperación, Transformación y Resiliencia ; la Consejería de Universidad, Investigación e Innovación de la Junta de Andalucía y el Consejo Superior de Investigaciones Científicas. También reconocemos el apoyo de las ayudas PID2020-114461GB-I00, PID2023-146295NB-I00 y CEX2021-001131-S, financiadas por MCIU/AEI/10.13039/501100011033.
+Financiado por el proyecto ref. AST22_00001_12 con financiación de la Unión Europea - NextGenerationEU»; el Ministerio de Ciencia, Innovación y Universidades ; el Plan de Recuperación, Transformación y Resiliencia ; la Consejería de Universidad, Investigación e Innovación de la Junta de Andalucía y el Consejo Superior de Investigaciones Científicas. También reconocemos el apoyo de las ayudas PID2020-114461GB-I00, PID2023-146295NB-I00 y CEX2021-001131-S, financiadas por MCIU/AEI/10.13039/501100011033.
 
 
 <p align="center">
