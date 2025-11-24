@@ -3,11 +3,11 @@ CALIMA - Component Analysis and Line Identification for MAsers
 Author: Pablo Santo-Tomás Ros
 Affiliation: Instituto de Astrofísica de Andalucía (IAA-CSIC)
 Year: 2025
-License: GPL v3 (https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+License: LGPL v3 (https://www.gnu.org/licenses/lgpl-3.0.en.html#license-text)
 
 Description:
-This script detects spectral components in maser emission and fits Gaussian profiles
-to determine their spatial coordinates.
+This script detects spectral components in maser emission and fits Gaussian
+profiles to determine their spatial coordinates.
 """
 
 import os
@@ -23,10 +23,10 @@ except ImportError:
     pip.main(["install", "pandas"])
     import pandas as pd
 
+
 # //////////////////////////////////////////////////////////
 #   DEFINITIONS
 # //////////////////////////////////////////////////////////
-
 
 def read_input_file(file_path):
     """Reads a file with key: value pairs and returns a dictionary."""
